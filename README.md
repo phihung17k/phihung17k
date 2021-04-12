@@ -1,5 +1,5 @@
 ## :smile:Hello! Nice to meet you 
-<hr>
+
 Welcome to my page!
 I'm Hung, living in Binh Duong Province, Vietnam
 
