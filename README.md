@@ -1,14 +1,7 @@
 ## :smile:Hello! Nice to meet you 
 <hr>
 Welcome to my page!
-I'm Hung, living in:vietnam:Binh Duong Province, Vietnam
-
-
-- 👋 Hi, I’m @phihung17k
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+I'm Hung, living in Binh Duong Province, Vietnam
 
 <!---
 phihung17k/phihung17k is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
